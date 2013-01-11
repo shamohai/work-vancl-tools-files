@@ -1,0 +1,5 @@
+F:\jiangtao\工作之余\小工具\GetFiles\GetFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\jiangtao\工作之余\小工具\GetFiles\GetFiles\bin\Debug\GetFilesList.exe
+F:\jiangtao\工作之余\小工具\GetFiles\GetFiles\bin\Debug\GetFilesList.pdb
+F:\jiangtao\工作之余\小工具\GetFiles\GetFiles\obj\x86\Debug\GetFilesList.exe
+F:\jiangtao\工作之余\小工具\GetFiles\GetFiles\obj\x86\Debug\GetFilesList.pdb
